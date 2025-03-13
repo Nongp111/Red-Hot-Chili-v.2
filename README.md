@@ -1,6 +1,6 @@
 ![Main_Manu](https://github.com/user-attachments/assets/cdb8dfa4-3890-4943-af26-127a2035c96a)
  
-                                                     ● Homebound Hustle ●
+● Homebound Hustle ●
  
 Team Member :
 
@@ -20,7 +20,7 @@ Game Presentation :
 
 ⊙  V0.0.4 https://www.canva.com/design/DAGfA_sqrQc/hVc9xwm1ZCbnK1_Gp_2JqQ/edit?utm_content=DAGfA_sqrQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  
-                                                         ● Character ● 
+● Character ● 
 ![Hustle_Character_8Way_](https://github.com/user-attachments/assets/4e71c5be-2e5f-4904-8754-f61973e6e3cf)
           
 
