@@ -4,9 +4,9 @@
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 
 ## 🚀 Genre:
-- Action
-- 2.5D / Pixel Art
-- Single Player
+- 🔥 Action
+- 🕹️ 2.5D / Pixel Art
+- 👤 Single Player
  
  
 ## 👥 Team Members  
@@ -21,18 +21,13 @@
 
 ## 📜 Game Presentation  
 
-📌 **[V0.0.1](https://www.canva.com/design/DAGbJTGNy5Q/_5U24qfgTclpL1dDlhR0Xw/edit)**
-<br>
-[![V0.0.1](https://img.shields.io/badge/V0.0.1-Initial-blue)](https://www.canva.com/design/DAGbJTGNy5Q/_5U24qfgTclpL1dDlhR0Xw/edit)  
+📌 **[![V0.0.1](https://img.shields.io/badge/V0.0.1-Click_Here-blue)](https://www.canva.com/design/DAGbJTGNy5Q/_5U24qfgTclpL1dDlhR0Xw/edit)**<br>
   
-📌 **[V0.0.2](https://www.canva.com/design/DAGcb2B61qA/qyzc2Hq9BJpgptQi3_i7WA/edit?utm_content=DAGcb2B61qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  <br>
-[![V0.0.2](https://img.shields.io/badge/V0.0.2-Updated-green)](https://www.canva.com/design/DAGcb2B61qA/qyzc2Hq9BJpgptQi3_i7WA/edit)
+📌 **[![V0.0.2](https://img.shields.io/badge/V0.0.2-Click_Here-green)](https://www.canva.com/design/DAGcb2B61qA/qyzc2Hq9BJpgptQi3_i7WA/edit)**  <br>
 
-📌 **[V0.0.3](https://www.canva.com/design/DAGdxbO7DbU/6SuMDwtK74lAk23N2VuGHg/edit?utm_content=DAGdxbO7DbU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**<br>
-[![V0.0.3](https://img.shields.io/badge/V0.0.3-Improved-orange)](https://www.canva.com/design/DAGdxbO7DbU/6SuMDwtK74lAk23N2VuGHg/edit)  
-
-📌 **[V0.0.4](https://www.canva.com/design/DAGfA_sqrQc/hVc9xwm1ZCbnK1_Gp_2JqQ/edit?utm_content=DAGfA_sqrQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
-<br>[![V0.0.4](https://img.shields.io/badge/V0.0.4-Latest-red)](https://www.canva.com/design/DAGfA_sqrQc/hVc9xwm1ZCbnK1_Gp_2JqQ/edit)
+📌 **[![V0.0.3](https://img.shields.io/badge/V0.0.3-Click_Here-orange)](https://www.canva.com/design/DAGdxbO7DbU/6SuMDwtK74lAk23N2VuGHg/edit)**<br>
+  
+📌 **[![V0.0.4](https://img.shields.io/badge/V0.0.4-Click_Here-red)](https://www.canva.com/design/DAGfA_sqrQc/hVc9xwm1ZCbnK1_Gp_2JqQ/edit)**<br>
 
 ## 🎮 GamePlay
 ![Homebound_gameplay](https://github.com/user-attachments/assets/d5d233e0-e93c-4d9b-b305-55b0f9b6ca57)
