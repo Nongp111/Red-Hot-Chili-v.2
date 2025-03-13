@@ -19,6 +19,14 @@
 		{
 			"Name": "ActorLayerUtilities",
 			"Enabled": false
+		},
+		{
+			"Name": "PlasticSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
