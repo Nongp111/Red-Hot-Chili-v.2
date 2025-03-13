@@ -20,5 +20,8 @@
 			"Name": "ActorLayerUtilities",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
