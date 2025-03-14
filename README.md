@@ -3,7 +3,7 @@
 ![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine-007ACC)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 
-## 🚀 Genre:
+## 🚀 Genre
 - 🔥 Action
 - 🕹️ 2.5D / Pixel Art
 - 👤 Single Player
