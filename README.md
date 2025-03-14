@@ -31,8 +31,13 @@
 
 ## 🎮 GamePlay
 ![Homebound_gameplay](https://github.com/user-attachments/assets/d5d233e0-e93c-4d9b-b305-55b0f9b6ca57)
-## ⚡ Animation
-![Game Animation](https://github.com/user-attachments/assets/3a0bc5c7-94f3-46c2-b329-e75576fefc95)
+## 🚀 **Download & Play**  
+🎮 **Get the latest version of** *Homebound Hustle*! Click below to download:  
+
+[![Download Game](https://img.shields.io/badge/Download_Game-Click_Here-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1LyWnGLwmEqwU6JLFINUJ7o8e8NU5Dqdc?usp=sharing)  
+
+📂 **File Location:** *Google Drive*  
+🛠 **Latest Version:** *V0.0.4*  
 
 
 
