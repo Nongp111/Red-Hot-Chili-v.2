@@ -29,6 +29,8 @@
   
 📌 **[![V0.0.4](https://img.shields.io/badge/V0.0.4-Click_Here-red)](https://www.canva.com/design/DAGfA_sqrQc/hVc9xwm1ZCbnK1_Gp_2JqQ/edit)**<br>
 
+📌 **[![V0.0.5](https://img.shields.io/badge/V0.0.5-Click_Here-gold)](https://www.canva.com/design/DAGfA_sqrQc/hVc9xwm1ZCbnK1_Gp_2JqQ/edit)**
+
 ## 🎮 GamePlay
 ![Homebound_gameplay](https://github.com/user-attachments/assets/d5d233e0-e93c-4d9b-b305-55b0f9b6ca57)
 ## 🚀 **Download & Play**  
