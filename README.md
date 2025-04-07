@@ -32,7 +32,17 @@
 📌 **[![V0.0.5](https://img.shields.io/badge/V0.0.5-Click_Here-gold)](https://www.canva.com/design/DAGfA_sqrQc/hVc9xwm1ZCbnK1_Gp_2JqQ/edit)**
 
 ## 🎮 GamePlay
-![Homebound_gameplay](https://github.com/user-attachments/assets/d5d233e0-e93c-4d9b-b305-55b0f9b6ca57)
+
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/2abeb96f-42b1-4823-b42d-b9826af1c518) <br>
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/10f17e7c-6402-4eae-ba30-b3c13ee49dc5) <br>
+
+![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/480ea2df-8a5a-4b85-b7b1-7bcd13a103b5) <br>
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/86ffa7dc-d7cd-443d-9abc-c18b2701477e) <br>
+
+
 ## 🚀 **Download & Play**  
 🎮 **Get the latest version of** *Homebound Hustle*! Click below to download:  
 
