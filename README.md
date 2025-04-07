@@ -39,7 +39,7 @@
 [![Download Game](https://img.shields.io/badge/Download_Game-Click_Here-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1HvRGSd4AtPGz4RoniVBSrIm7e3dmqevC?usp=sharing)  
 
 📂 **File Location:** *Google Drive*  
-🛠 **Latest Version:** *V0.0.4*  
+🛠 **Latest Version:** *V0.0.5*  
 
 
 
